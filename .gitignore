@@ -1,0 +1,14 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# PyInstaller - Carpetas de compilación y ejecutables
+build/
+dist/
+*.spec
+
+# Archivos de reporte generados por el script (para no subirlos si haces pruebas)
+archivos_modificados.txt
+
+# VS Code (si usas este editor)
+.vscode/
